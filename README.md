@@ -9,4 +9,4 @@ Launching Instructions:
 	▪	node server.js
 
 Testing instructions: 
-	▪	To test go to http://localhost:3000/curling.html
+	▪	To test go to http://localhost:3000/assignment2.html
